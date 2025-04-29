@@ -4,6 +4,7 @@ Develop a machine learning model to accurately classify cybersecurity incidents 
   * Classifies Cybersecurity Incidents
   * Creating model that best classifies the incidents
 # Screenshots
+![alt text](https://github.com/AruRaja11/micorosoft-classifying-cybersecurity-incidents/blob/b6c1b16c37e593f62aa6f25e6acc650af155b1d7/Screenshots/image1.png)
 
 # Technologies Used
   * Python
