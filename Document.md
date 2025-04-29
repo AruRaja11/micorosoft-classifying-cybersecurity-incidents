@@ -82,12 +82,12 @@ Train-test split: 80% Training / 20% Validation
 * ✅ Achieved high accuracy and F1-score across all classes
 * ✅ Ready for deployment in SOC environments for real-time triage support
 
-#🛠️ Tools & Libraries
+# 🛠️ Tools & Libraries
 * Python
 
 * Pandas, NumPy
 
 * Scikit-learn
 
-*Matplotlib, Seaborn
+* Matplotlib, Seaborn
 
